@@ -1,0 +1,15 @@
+.watch{
+
+  display: flex;
+  justify-content: center;
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: yellowgreen;
+}
+
+#para{
+  
+  font-weight: 100px;
+  
+}
